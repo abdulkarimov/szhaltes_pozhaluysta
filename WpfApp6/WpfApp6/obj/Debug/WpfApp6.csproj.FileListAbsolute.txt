@@ -1,0 +1,15 @@
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe.config
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.pdb
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csprojAssemblyReference.cache
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\MainWindow.g.cs
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\App.g.cs
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\MainWindow.baml
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.g.resources
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.exe
+C:\Users\HeniTay\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.pdb

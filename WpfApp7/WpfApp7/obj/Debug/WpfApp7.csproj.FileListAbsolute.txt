@@ -1,0 +1,17 @@
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\bin\Debug\Notifications.Wpf.dll
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojAssemblyReference.cache
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CopyComplete
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\HeniTay\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
